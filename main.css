@@ -34,3 +34,8 @@ header > h1{
         padding: 30px;
         border: thick black solid;
     }
+
+    footer{
+        text-align: center;
+        padding: 20px;
+    }
