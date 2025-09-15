@@ -1,5 +1,5 @@
 h1{
-    color: crimson;
+    color: gray;
     font-size: 50px;}
     *{
         box-sizing: border-box;
@@ -17,8 +17,8 @@ h1{
         background-color: darkslategray;
         border-radius:  25px ;
         float: left;
-        margin: 0px 10px 0px 10px;
-        padding: 30px 30px 30px 30px;
+        margin: 0px 10px;
+        padding: 30px;
         border: thick black solid;
     }
 header > h1{
@@ -35,6 +35,6 @@ header > h1{
         background-color:darkslategray;
         border-radius:  25px ;
          float: left;
-        padding: 30px 30px 30px 30px;
+        padding: 30px;
         border: thick black solid;
     }
